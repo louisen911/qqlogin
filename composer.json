@@ -1,0 +1,20 @@
+{
+  "name": "etwow/qqlogin",
+  "description": "test",
+  "authors": [
+    {
+      "name": "louisen",
+      "email": "598793373@qq.com"
+    }
+  ],
+  "require": {
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "GradePackages\\SymfonyActive\\": "src/SymfonyActive/",
+      "Tests\\": "tests/"
+    }
+  }
+}
