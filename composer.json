@@ -13,8 +13,7 @@
   },
   "autoload": {
     "psr-4": {
-      "GradePackages\\SymfonyActive\\": "src/SymfonyActive/",
-      "Tests\\": "tests/"
+      "Etwow\\Qqlogin\\": "src/",
     }
   }
 }
